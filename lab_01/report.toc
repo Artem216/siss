@@ -1,0 +1,11 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Цель работы}{2}{section.1}%
+\contentsline {section}{\numberline {2}Архитектура сервиса}{2}{section.2}%
+\contentsline {section}{\numberline {3}Реализованные endpoints}{2}{section.3}%
+\contentsline {section}{\numberline {4}Документация и проверка через Swagger UI}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Успешное выполнение прогноза}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Ошибка структурной валидации}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Получение отсутствующего прогноза}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Тестирование API}{6}{section.5}%
+\contentsline {section}{\numberline {6}Анализ API-контракта}{7}{section.6}%
+\contentsline {section}{\numberline {7}Вывод}{7}{section.7}%

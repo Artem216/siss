@@ -8,4 +8,4 @@
 ## Структура
 
 - [`lab_01`](lab_01) — REST API сервиса агроскоринга на FastAPI.
-
+- [`lab_02`](lab_02) — асинхронный AI-сервис с SQLite, batching и LLM.

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+report.aux
+report.fdb_latexmk
+report.fls
+report.log
+report.out
+report.pdf
+report.toc
+
