@@ -1,0 +1,8 @@
+numpy==2.4.4
+pypdf==6.10.2
+langchain-ollama==1.0.1
+langchain-core==1.8.4
+ollama==0.6.3
+ipykernel==7.2.0
+nbformat==5.10.4
+nbclient==0.10.4
